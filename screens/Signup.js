@@ -116,5 +116,6 @@ const styles = StyleSheet.create({
         color:'#1D1617'
     }
 })
+// 
 
 export default Signup
